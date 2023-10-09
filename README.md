@@ -1,9 +1,6 @@
 <h1 align="center">✨ Hey heyy, ici K8 ✨</h1>
 <h3 align="center">Une étudiante en Prépa Mastère CreaTech à l'IIM Digital School et à l'ESILV</h3>
 
-
-- 📫 Comment me joindre **k8.fuyu@gmail.com**
-
 <p align="left">
 </p>
 
