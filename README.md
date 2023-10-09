@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey heyy, ici K8 ✨</h1>
-<h3 align="center">Une étudiante en Prépa Mastère Coding JS et Projet à l'IIM Digital School</h3>
+<h3 align="center">Une étudiante en Prépa Mastère CreaTech à l'IIM Digital School et à l'ESILV</h3>
 
 - 🌱 En ce moment j'étudie **le coding**
 
